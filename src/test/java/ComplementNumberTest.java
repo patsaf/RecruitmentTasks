@@ -19,7 +19,7 @@ public class ComplementNumberTest {
     }
 
     @Test
-    public void checkWinterDays() {
+    public void checkNumberComplement() {
         assertTrue(complementNumber.complementNumber(testCase1) == 13);
         assertTrue(complementNumber.complementNumber(testCase2) == 0);
         assertTrue(complementNumber.complementNumber(testCase3) == 7);

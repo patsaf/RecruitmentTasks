@@ -19,7 +19,7 @@ public class BracketsTest {
     }
 
     @Test
-    public void checkWinterDays() {
+    public void checkBrackets() {
         assertTrue(brackets.isCorrect(testCase1));
         assertFalse(brackets.isCorrect(testCase2));
         assertTrue(brackets.isCorrect(testCase3));
