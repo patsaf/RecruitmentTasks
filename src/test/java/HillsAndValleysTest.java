@@ -10,7 +10,7 @@ public class HillsAndValleysTest {
     private final int[] testCase2 = {5, -5, 16, 17, 19, 10}; //4
     private final int[] testCase3 = {1, 1, 1, 1}; //1
     private final int[] testCase4 = {1, 5, 4, 3, 2}; //3
-    private final int[] testCase5 = {11, 4, 15, 16, 9, 8, 7, 10, 14, 12, 13}; //7
+    private final int[] testCase5 = {11, 4, 15, 16, 9, 8, 9, 10, 14, 12, 13}; //7
     private final int[] testCase6 = {-3, -3, -3, -4}; //2
 
     @Before
